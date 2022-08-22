@@ -20,7 +20,7 @@ body{
     display:grid;
     row-gap: 20px;
     background-color:  hsl(0, 0%, 81%);
-    padding:20px;
+    padding:50px;
     font-weight: bolder;
 }
 
